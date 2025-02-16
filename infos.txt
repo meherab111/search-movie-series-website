@@ -1,0 +1,122 @@
+API: https://www.omdbapi.com/?t=batman&y=2005&apikey=2611174b
+
+API: https://www.omdbapi.com/?s=batman&apikey=2611174b
+
+CineQuery.web.app
+
+
+primary color: #182526
+
+secondary color: #0d8494
+
+
+
+Title: batman returns
+Released: 19 jun 1992
+Runtime: 126min
+Genre:Action, Crime, Fantasy
+Director: Tim Burton
+Writer:  Bob Kane, Daniel Waters, Sam Hamm
+Actors:Michael Keaton, Danny DeVito, Michelle Pfeiffer
+Plot: While Batman deals with a deformed man calling himself the Penguin wreaking havoc across 
+Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.
+Imdb rating: 7.1/10
+rotten tomatoes: 82%
+
+
+
+
+
+
+
+
+<a href="singlemovie.html">
+            <div class="section-allmovies--div flex-box flex-box--col">
+              <div class="movies-image--div">
+                <img
+                  src="images/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX350.jpg"
+                  alt="img"
+                />
+              </div>
+              <div class="movies-info--div">
+                <h2 class="movies-heading">
+                  <span>Movie Name:</span> Batman The new Beginning of the earth
+                </h2>
+                <h2 class="movies-heading"><span>Movie Year:</span> 1992</h2>
+                <h2 class="movies-heading"><span>Type:</span> Movie</h2>
+              </div>
+            </div>
+          </a>
+          <a href="singlemovie.html">
+            <div class="section-allmovies--div flex-box flex-box--col">
+              <div class="movies-image--div">
+                <img
+                  src="images/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX350.jpg"
+                  alt="img"
+                />
+              </div>
+              <div class="movies-info--div">
+                <h2 class="movies-heading">
+                  <span>Movie Name:</span> Batman The new Beginning of the earth
+                </h2>
+                <h2 class="movies-heading"><span>Movie Year:</span> 1992</h2>
+                <h2 class="movies-heading"><span>Type:</span> Movie</h2>
+              </div>
+            </div>
+          </a>
+          <a href="singlemovie.html">
+            <div class="section-allmovies--div flex-box flex-box--col">
+              <div class="movies-image--div">
+                <img
+                  src="images/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX350.jpg"
+                  alt="img"
+                />
+              </div>
+              <div class="movies-info--div">
+                <h2 class="movies-heading">
+                  <span>Movie Name:</span> Batman The new Beginning of the earth
+                </h2>
+                <h2 class="movies-heading"><span>Movie Year:</span> 1992</h2>
+                <h2 class="movies-heading"><span>Type:</span> Movie</h2>
+              </div>
+            </div>
+          </a>
+          <a href="singlemovie.html">
+            <div class="section-allmovies--div flex-box flex-box--col">
+              <div class="movies-image--div">
+                <img
+                  src="images/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX350.jpg"
+                  alt="img"
+                />
+              </div>
+              <div class="movies-info--div">
+                <h2 class="movies-heading">
+                  <span>Movie Name:</span> Batman The new Beginning of the earth
+                </h2>
+                <h2 class="movies-heading"><span>Movie Year:</span> 1992</h2>
+                <h2 class="movies-heading"><span>Type:</span> Movie</h2>
+              </div>
+            </div>
+          </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

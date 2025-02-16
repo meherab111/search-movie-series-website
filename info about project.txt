@@ -1,0 +1,121 @@
+        <div class="container">
+          <div class="section-singlemovie--div flex-box">
+            <div class="movies-image--div">
+              <img
+                src="images/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX350.jpg"
+                alt="img"
+              />
+            </div>
+            <div class="movies-info--div">
+              <h2 class="movies-heading">
+                <span>Title:</span> Batman The new Beginning of the earth
+              </h2>
+              <h2 class="movies-heading"><span>Released:</span> 19 Jun 1992</h2>
+              <h2 class="movies-heading"><span>Runtime:</span> 126min</h2>
+              <h2 class="movies-heading">
+                <span>Genre:</span> Action, Crime, Fantasy
+              </h2>
+              <h2 class="movies-heading"><span>Director:</span> Tim Burton</h2>
+              <h2 class="movies-heading">
+                <span>Writer:</span> Bob Kane, Daniel Waters, Sam Hamm
+              </h2>
+              <h2 class="movies-heading">
+                <span>Actors:</span> Michael Keaton, Danny DeVito, Michelle
+                Pfeiffer
+              </h2>
+              <h2 class="movies-heading">
+                <span>Plot:</span> While Batman deals with a deformed man
+                calling himself the Penguin wreaking havoc across Gotham with
+                the help of a cruel businessman, a female employee of the latter
+                becomes the Catwoman with her own vendetta.
+              </h2>
+              <h2 class="movies-heading"><span>Imdb rating:</span> 7.1/10</h2>
+              <h2 class="movies-heading"><span>rotten tomatoes:</span> 82%</h2>
+            </div>
+          </div>
+        </div>
+
+
+
+
+/* ! section singlemovie  */
+
+.section-singlemovie .container {
+  & .movies-info--div {
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 3rem;
+  }
+
+  & .section-singlemovie--div {
+    background-color: var(--transparent-bg);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+/* ! section allmovies  */
+
+.section-allmovies .container {
+  gap: 4rem;
+
+  & .movies-info--div {
+    max-width: 35rem;
+    margin: 0 auto;
+    padding: 0rem 3rem 2rem 3rem;
+  }
+
+  & .section-allmovies--div {
+    background-color: var(--transparent-bg);
+  }
+
+  & .movies-info--div {
+    gap: 2rem;
+  }
+}
+
+
+
+
+
+
+
+            <a href="singlemovie.html">
+            <div class="flex-box flex-box--col">
+              <div class="movies-image--div">
+                <img
+                  src="${elem.Poster}"
+                  alt="img"
+                />
+              </div>
+              <div class="movies-info--div">
+                <h2 class="movies-heading">
+                  <span>Movie Name:</span> ${elem.Title}
+                </h2>
+                <h2 class="movies-heading"><span>Movie Year:</span> ${elem.Year}</h2>
+                <h2 class="movies-heading"><span>Type:</span> ${elem.Type}</h2>
+              </div>
+            </div>
+          </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

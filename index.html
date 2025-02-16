@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="shortcut icon"
+      href="images//cinequeryimg.png"
+      type="image/x-icon"
+    />
+<!-- Linking CSS file -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Cine Query: Real-Time Movie/Series Search Portal</title>
+  </head>
+  <body>
+<!-- header/navbar section -->
+    <header class="section-navbar">
+      <div class="container flex-box">
+        <div class="navbar-brand">
+          <a class="section-navbar-heading" href="index.html" title="CineQuery"
+            >Cine Query</a
+          >
+        </div>
+        <div class="section-movies--search flex-box">
+          <form id="input-field--form" method="post">
+            <i class="fa-solid fa-magnifying-glass left-icon"></i>
+            <input
+              type="text"
+              id="input-field--movie"
+              maxlength="40"
+              placeholder="Search Movie Name..."
+              required
+            />
+          </form>
+        </div>
+      </div>
+    </header>
+<!-- main body section -->
+    <main>
+      <div class="section-hero">
+        <div class="section-hero--contents container">
+          <div class="section-hero--texts flex-box flex-box--col">
+            <h1 class="section-hero-heading">Welcome to Cine Query</h1>
+            <h2 class="section-hero-subheading">
+              Where you can search and get info about specific movie/series.
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div class="section-multimovie">
+        <div class="section-hero--movies container grid grid-three--col">
+          <!-- dynamic Multiple Movie data entry -->
+        </div>
+      </div>
+      <div class="section-singlemovie">
+        <div class="section-hero--movie container flex-box flex-box--col">
+          <!-- dynamic Single Movie data entry -->
+        </div>
+      </div>
+    </main>
+<!-- Footer section -->
+    <footer class="section-footer flex-box">
+      <div class="container footer-info flex-box">
+        <a
+          class="footer-link"
+          href="https://www.facebook.com/meherab.hassan.1/"
+          target="_blank"
+          title="Facebook"
+          ><i class="fa-brands fa-facebook"></i
+        ></a>
+
+        <a
+          class="footer-link"
+          href="https://www.instagram.com/meherab_hass4n?igsh=a3ppbmprbnQ3b2Iz"
+          target="_blank"
+          title="Instagram"
+          ><i class="fa-brands fa-instagram"></i
+        ></a>
+        <a
+          class="footer-link"
+          href="https://x.com/meherab111"
+          target="_blank"
+          title="Twitter"
+          ><i class="fa-brands fa-x-twitter"></i
+        ></a>
+      </div>
+    </footer>
+<!-- Linking JS file -->
+    <script src="main.js"></script>
+  </body>
+</html>
