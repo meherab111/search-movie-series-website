@@ -366,17 +366,13 @@ button {
   -o-border-radius: 50px;
 }
 
-/* Media query part */
-
-/* Media query (1200px) */
+/** Media query part */
 
 @media (width <= 1200px) {
   html {
     font-size: 56%;
   }
 }
-
-/* Media query (1000px) */
 
 @media (width <= 1000px) {
   html {
@@ -421,8 +417,6 @@ button {
   }
 }
 
-/* Media query (810px) */
-
 @media (width <= 810px) {
   html {
     font-size: 52%;
@@ -450,8 +444,6 @@ button {
     }
   }
 }
-
-/* Media query (760px) */
 
 @media (width <= 760px) {
   html {
@@ -497,8 +489,6 @@ button {
     flex-direction: column;
   }
 }
-
-/* Media query (570px) */
 
 @media (width <= 570px) {
   html {
